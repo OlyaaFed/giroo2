@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .Main-menu{
+    margin: 10px;
+    height: 40px;
+    font-size: 18px;
+    line-height: 41px;
+ }
+ .Main-menu img{
+    float: left;
+    margin-left: 40px;
+ }
+ .Main-menu nav {
+    float: right;
+ }
+
+ .Main-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+ }
+ .Main-menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+ }
+ .baner{
+    background-image: url(img/scooter-3620869_960_720.jpg);
+    height: 460px;
+    width: 1000px;
+    
+ }
+ .baner p{
+    text-align: center;
+    color: aliceblue;
+padding-top: 120px;
+font-size: 20px;
+ }
+ .text p{
+    padding-bottom: 30px;
+    padding-top: 50px;
+ }
+ .catalog nav {
+float: right;
+ }
+ .catalog ul li{
+    display: inline-block;
+    margin-left: 20px;
+ }
+ .catalog ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+ }
+ .catalog{
+    margin: 50px;
+    height: 70px;
+    font-size: 18px;
+    
+ }
+.catallog p{
+padding-top: 20px;
+font-size: 20px;
+margin: 10px;
+
+ }
+ .giroskyter .content{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+ /*giroskuter*/
+ .giroskyter .content div {
+      width: 200px;
+      height: 300px;
+      text-align: center;
+      padding: 10px 20px 10px 20px;
+      box-shadow:  0 0 7px;
+      margin-bottom: 50px;
+
+  }
+ 
+  .info p{
+   padding-bottom: 30px;
+   padding-top: 50px;
+  }
+
+/*contennt*/
+.contennt{
+display: flex;
+ justify-content: space-between;
+   
+}
+.contennt div{
+   padding: 10px 30px 10px 20px;
+}
+ /*Подвал*/
+ .footer{
+   display: flex;
+   margin-top: 50px;
+   font-size: 14px;
+   color: #8191A6;
+ }
+ .footer1 p{
+margin-bottom: 10px;
+flex-wrap: wrap;
+margin-left: 150px;
+ }
+
+ .footer2 p{
+   width: 16opx;
+ }
+ .footer2 p:nth-child(1){
+   color: #000;
+ }
+
+ .footer2 p:nth-child(2){
+   color: #000;
+ }
+ .footer2 p:nth-child(3){
+   color: #000;
+ }
+
